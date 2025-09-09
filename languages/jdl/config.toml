@@ -1,0 +1,5 @@
+name = "Jdl"
+grammar = "jdl"
+path_suffixes = ["jdl"]
+line_comments = ["// "]
+tab_size = 2
